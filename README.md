@@ -21,4 +21,4 @@ Both modules include methods to calculate the mean, standard deviation, and prob
 
 HOW TO INSTALL In your command line, type: "pip install gdb-probability"
 
-To use either object, open your python interpreter in your command line or use whatever IDE is available and input: "from gdb-probability import Binomial, Gaussian"
+To use either object, open your python interpreter in your command line or use whatever IDE is available and input: "from gdb_probability import Binomial, Gaussian"
