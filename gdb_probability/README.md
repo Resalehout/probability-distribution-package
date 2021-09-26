@@ -43,6 +43,6 @@ In your command line, type:
 "pip install gdb-probability"
 
 To use either object, open your python interpreter in your command line or use whatever IDE is available and input:
-"from gdb-probability import Binomial, Gaussian"
+"from gdb_probability import Binomial, Gaussian"
     
      
