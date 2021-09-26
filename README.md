@@ -19,6 +19,6 @@ Attributes: - mean (float) representing the mean value of the distribution - std
 
 Both modules include methods to calculate the mean, standard deviation, and probability density function of the distribution as well as plot a histogram to visualize the distribution of data. They also include a method to add two distributions (for clarity, that is either two Gaussian or two Binomial distribution but not a Gaussian and Binomial distribution.)
 
-HOW TO INSTALL In your command line, type: "pip install prob-distributions"
+HOW TO INSTALL In your command line, type: "pip install gdb-probability"
 
-To use either object, open your python interpreter in your command line or use whatever IDE is available and input: "from prob_distribution import Binomial, Gaussian"
+To use either object, open your python interpreter in your command line or use whatever IDE is available and input: "from gdb-probability import Binomial, Gaussian"
